@@ -49,7 +49,6 @@ Retrieve the fitment results for a previously uploaded job description and resum
 
 Here are some sample code snippets you can refer to get started:
 
-- [Python](./Python/sample.py)
-- [PHP](./PHP/sample.php)
+- [python](./python/sample.py)
 
 
